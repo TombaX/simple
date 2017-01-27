@@ -19,6 +19,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'ckeditor', '~>4.1'
 gem 'carrierwave'
+gem 'mini_magick'
 
 
 # My gems
