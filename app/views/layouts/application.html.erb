@@ -9,10 +9,11 @@
 <body>
 
 <ul class="nav nav-tabs">
-  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><%= link_to "Home", root_path %></li>
   <li role="presentation"><a href="#">Profile</a></li>
-  <li role="presentation"><a href="#">Messages</a></li>
+  <li role="presentation"><%= link_to "Posts", posts_path %></li>
 </ul>
+
 
 <%= yield %>
 
