@@ -18,6 +18,7 @@ gem 'jquery-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 gem 'ckeditor', '~>4.1'
+gem 'carrierwave'
 
 
 # My gems
