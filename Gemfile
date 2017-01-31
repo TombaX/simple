@@ -20,6 +20,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'ckeditor', '~>4.1'
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'non-stupid-digest-assets', '~> 1.0.4'
 
 
 # My gems
