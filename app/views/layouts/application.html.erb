@@ -14,8 +14,11 @@
   <li role="presentation"><%= link_to "Posts", posts_path %></li>
 </ul>
 
-
+<div class='container'>
+<p class='notice'><%=notice%></p>
+<p class='alert'><%=alert%></p>
 <%= yield %>
+</div>
 
 </body>
 </html>
