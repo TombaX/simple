@@ -17,7 +17,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
-gem 'ckeditor', '~>4.1'
+gem 'ckeditor', '~> 4.2', '>= 4.2.2'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'non-stupid-digest-assets'
