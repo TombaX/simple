@@ -13,6 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require ckeditor/init
-//= require_tree .
 //= require bootstrap-sprockets
+//= require_tree .
 

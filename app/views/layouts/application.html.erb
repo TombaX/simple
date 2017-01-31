@@ -8,11 +8,7 @@
 </head>
 <body>
 
-<ul class="nav nav-tabs">
-  <li role="presentation"><%= link_to "Home", root_path %></li>
-  <li role="presentation"><a href="#">Profile</a></li>
-  <li role="presentation"><%= link_to "Posts", posts_path %></li>
-</ul>
+<%= render "layouts/navigation"%> 
 
 <div class='container'>
 <p class='notice'><%=notice%></p>
